@@ -26,3 +26,7 @@ A proposta de utilização desse sensor seria identificar a quantidade de luz, e
 
 
 # Video
+
+
+https://github.com/Renan-MitsuruNS/Sensores/assets/127457010/b433d98c-a56d-4cf0-aeed-7437829089ba
+
